@@ -16,4 +16,4 @@ Implementation of LP formulation of Minimal Cost Flow Problem used for reconstru
 
 ## 4. Traveling Salesman problem
 Implementation of a program that solves the image unshredding problem using TSP with lazy constraints.
-![alt text](https://github.com/bouskaf/combinatorial_optimization/tree/master/cocontest/imgs/tsp_1.PNG "TSP 1") ![alt text 2](https://github.com/bouskaf/combinatorial_optimization/tree/master/cocontest/imgs/tsp_2.PNG "TSP 2")
+![alt text](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/tsp_1.PNG "TSP 1") ![alt text 2](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/tsp_2.PNG "TSP 2")
