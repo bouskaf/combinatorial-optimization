@@ -17,3 +17,7 @@ Implementation of LP formulation of Minimal Cost Flow Problem used for reconstru
 ## 4. Traveling Salesman problem
 Implementation of a program that solves the image unshredding problem using TSP with lazy constraints.
 ![alt text](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/tsp_1.PNG "TSP 1") ![alt text 2](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/tsp_2.PNG "TSP 2")
+
+## 5. Scheduling and the Branch and Bound algorithm
+Implementation of Bratley’s algorithm. The input is given by three vectors — processing time, release time and deadline. The output assignment of tasks to start times in an optimal schedule minimizing the makespan.
+![alt text](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/brat_2.PNG "BRATLEY 1") ![alt text 2](https://github.com/bouskaf/combinatorial_optimization/blob/master/imgs/brat_1.PNG "BRATLEY 2")
