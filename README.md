@@ -2,7 +2,7 @@
 repository with tasks solved in subject a4m35ko on CTU FEL
 
 ## Cocontest
-Implementation of integer linear problem sovling the problem of transaction between bunch of people owing each other some amount of money. This implementation finds the optimal solution (with the smalles number of transactions).
+Implementation of ILP solving the problem of transaction between bunch of people owing each other some amount of money. This implementation finds the optimal solution (with the smallest number of transactions).
 
 ## Cocontest Treshold
 Same problem as mentioned above but solved not with ILP but with heuristic methods which works much faster but are not optimal.
